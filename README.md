@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4d5c,100:14b8a6&height=200&section=header&text=Zaid%20Haque&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=I%20like%20building%20things%20that%20run%20close%20to%20the%20hardware&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4d5c,100:14b8a6&height=200&section=header&text=Zaid%20Haque&fontSize=62&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/zaidhawk">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=2DD4BF&center=true&vCenter=true&width=720&lines=CS+%40+Toronto+Metropolitan+University;Seeking+Summer+2027+internships" alt="Typing intro" />
@@ -54,24 +54,24 @@ A GPU benchmark written from scratch. Three scenes, GLSL Blinn-Phong lighting, 7
 </td>
 <td width="50%" valign="top">
 
-### [🚇 TTC Subway Delay Analysis](https://github.com/zaidhawk/ttc-subway-delay-analysis)
-<img src="assets/ttc-dashboard.png" width="100%" />
-
-Takes 2.5 years of Toronto open data on subway delays, cleans it, checks data quality with every step logged, and builds a KPI dashboard of trends by line and top causes. 35.1% of incidents caused delays, adding up to 3,272 hours.
-
-`Python` `pandas` `Excel`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### [👻 Necrosylum](https://github.com/zaidhawk/Necrosylum)
 <img src="assets/necrosylum.gif" width="100%" />
 
 A horror game prototype. I built the enemy AI that chases you with Behaviour Trees and nav meshes, an event system where picking up items changes the game state, and the whole map.
 
 `Unreal Engine 5` `C++`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [🚇 TTC Subway Delay Analysis](https://github.com/zaidhawk/ttc-subway-delay-analysis)
+<img src="assets/ttc-dashboard.png" width="100%" />
+
+Takes 2.5 years of Toronto open data on subway delays, cleans it, checks data quality with every step logged, and builds a KPI dashboard of trends by line and top causes. 35.1% of incidents caused delays, adding up to 3,272 hours.
+
+`Python` `pandas` `Excel`
 
 </td>
 <td width="50%" valign="top">
@@ -89,6 +89,8 @@ A long-running Python + Playwright monitor that checks product pages on a random
 <td colspan="2" valign="top">
 
 ### [🏁 MEC 2026 Website](https://github.com/zaidhawk/MEC2026)
+<img src="assets/mec.gif" width="100%" />
+
 The official site for TMU's Metropolitan Engineering Competition. It's where students from every faculty go for registration, sponsor and event info.
 
 `React` `TypeScript` `Tailwind CSS`

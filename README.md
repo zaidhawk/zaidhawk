@@ -35,7 +35,6 @@ struct Zaid {
 + 71,942 TTC subway delay records merged, cleaned and validated (Jan 2024 to Aug 2026)
 + 83 duplicates removed, 48 messy line spellings normalized down to 5
 + 3,651 rolling-stock incidents ranked by delay minutes (door faults came out on top)
-+ Dean's List, Winter 2026
 ```
 
 ## 🚀 Featured builds

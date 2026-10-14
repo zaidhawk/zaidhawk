@@ -16,16 +16,6 @@
 
 ---
 
-```cpp
-struct Zaid {
-    std::string school    = "Computer Science @ Toronto Metropolitan University";
-    std::string now       = "Web Developer @ Metropolitan Engineering Competition";
-    std::string base      = "Toronto, ON";
-    std::vector<std::string> into = {"graphics", "hardware", "game dev", "data"};
-    std::string seeking   = "Winter/Summer 2027 SWE internships";
-};
-```
-
 ## 🚀 Featured builds
 
 <table>

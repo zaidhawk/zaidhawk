@@ -79,7 +79,7 @@ Takes 2.5 years of Toronto open data on subway delays, cleans it, checks data qu
 ### [📦 Amazon Restock Bot](https://github.com/zaidhawk/amazon-restock-bot)
 <img src="assets/stockmonitor.gif" width="100%" />
 
-A long-running Python + Playwright monitor that checks product pages on a randomized interval, sends Windows toast and sound alerts when stock changes, and logs every run with retry and timeout handling.
+A Python + Playwright monitor that checks product pages on a randomized interval, sends Windows toast and sound alerts when stock changes, and logs every run with retry and timeout handling.
 
 `Python` `Playwright`
 

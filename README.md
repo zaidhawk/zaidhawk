@@ -18,7 +18,7 @@
 
 ```cpp
 struct Zaid {
-    std::string school    = "Computer Science @ Toronto Metropolitan University (2028)";
+    std::string school    = "Computer Science @ Toronto Metropolitan University";
     std::string now       = "Web Developer @ Metropolitan Engineering Competition";
     std::string base      = "Toronto, ON";
     std::vector<std::string> into = {"graphics", "GPU performance", "game dev", "data"};

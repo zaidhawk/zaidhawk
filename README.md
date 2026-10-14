@@ -22,19 +22,8 @@ struct Zaid {
     std::string now       = "Web Developer @ Metropolitan Engineering Competition";
     std::string base      = "Toronto, ON";
     std::vector<std::string> into = {"graphics", "hardware", "game dev", "data"};
-    std::string seeking   = "Summer 2027 SWE internships";
+    std::string seeking   = "Winter/Summer 2027 SWE internships";
 };
-```
-
-## ⚡ Things I've measured
-
-```diff
-+ 3 GPU workloads, from 1 lit cube up to 5,000 instanced cubes and 64-layer fur shading
-+ Renders at any resolution from 720p to 8K through offscreen framebuffers, whatever the window size
-+ Live GPU temperature, usage and power draw read through NVML, loaded at runtime
-+ 71,942 TTC subway delay records merged, cleaned and validated (Jan 2024 to Aug 2026)
-+ 83 duplicates removed, 48 messy line spellings normalized down to 5
-+ 3,651 rolling-stock incidents ranked by delay minutes (door faults came out on top)
 ```
 
 ## 🚀 Featured builds

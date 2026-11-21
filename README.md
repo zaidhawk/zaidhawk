@@ -20,17 +20,6 @@
 
 <table>
 <tr>
-<td colspan="2" valign="top">
-
-### [🚗 Crashtimate](https://github.com/zaidhawk/Crashtimate) · [Live demo](https://crashtimate.zaidhaque.ca)
-
-Upload photos of a damaged car and get an itemized repair estimate in Canadian dollars. A vision model finds the damage (which panel, what kind, how bad), and a separate pricing engine prices it the way body shop estimating software does, so every dollar traces back to a rule and a sourced number. I scored three models on 50 photos from the CarDD dataset to choose which one the app uses.
-
-`Python` `FastAPI` `Next.js` `TypeScript` `Claude API` `Docker`
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [🎮 GPU-Benchmark](https://github.com/zaidhawk/GPU-Benchmark)
@@ -93,7 +82,7 @@ The official site for TMU's Metropolitan Engineering Competition. It's where stu
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,py,java,ts,js,react,tailwind,nodejs&theme=dark" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=nextjs,fastapi,sqlite,docker,unreal,linux,bash,git,vscode,visualstudio&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=unreal,linux,bash,git,vscode,visualstudio&theme=dark" />
 </p>
 
 <p align="center">

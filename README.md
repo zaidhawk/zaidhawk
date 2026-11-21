@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4d5c,100:14b8a6&height=200&section=header&text=Zaid%20Haque&fontSize=62&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" />
 
-<a href="https://github.com/zaidhawk">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=2DD4BF&center=true&vCenter=true&width=720&lines=CS+%40+Toronto+Metropolitan+University" alt="Typing intro" />
-</a>
-
 <br/>
 
 <a href="https://zaidhaque.ca"><img src="https://img.shields.io/badge/Website-14b8a6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
